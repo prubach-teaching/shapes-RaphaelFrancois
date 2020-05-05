@@ -8,7 +8,6 @@ public class Square extends Rectangle {
   public double calcSurface() {
     return parA*parA;
   }
-  
   public double calcPerimeter() {
     return parA*4;
   }
